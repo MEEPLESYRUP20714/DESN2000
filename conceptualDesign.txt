@@ -1,6 +1,25 @@
 Conceptual design idea 
 Ocean sustainability 
 - bycatch
-- 
+- ocean acidification 
+- fertilisation runoff
+- contamination ~ oil/plastics/nuclear waste
+- habitat portection 
+- water scarcity 
+- overfishing 
+- coral bleaching 
+- light pollution damaging marine biomechanics 
+- dune degrdation creating unsistaibable environments 
+
 water sustainability
+- toilet sanitisation 
+- water borne diseases 
+- inefficient irrgigation 
+- water quality maintainance 
+- water treament and sanitation 
+
 energy sustainability
+-  disposal of  batteries 
+- degredation of batteries through use
+- water wastage through the creation of energy 
+- economic and social afforability of access to energy

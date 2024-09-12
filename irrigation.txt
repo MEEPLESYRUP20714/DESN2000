@@ -1,0 +1,56 @@
+Underground irrigation system:
+
+SDG6:
+Ensure avaliability and sustainable management of water
+and sanitation for all 
+
+SDG14:
+Conserve and sustainbaly use the oceans, seas and marine resources for
+sustainable development 
+
+
+
+Problem:
+    - Over 70% of the earths fresh water reserved is dedicated towards
+    agricultural use, thus the management of such resources is impeccable
+    to gauruntee sustaibility
+    - 2.4 billion people live in water stressed countries
+    - Fertilisation run off damage ocean ecosystems affecting the biodiversity
+    of ocean life: specific exam seaweed over growth ~ expand into this later
+    - SDG 11 and 6 are both impacted
+    - percolation 
+    - call for automation in the agricultural indusrty
+    
+Customer needs:
+    - irrigation system that is reuseable for crops 
+    - minimise water usage 
+    - mitigate runoff 
+    - easily operatble 
+    - automatic and self sustaining 
+    - afforable or at least jutifiable ROI
+    - moveable and adjustable to changing water sources 
+    - sustainable and cheap power source for the pump 
+    - adjustable water amount as well as application time 
+    - avoid percolation
+    - potential cutomers - farmers direct but indirectly grocery shops and grocery buyers 
+    
+
+functional requirement:
+    - use of a microcontroller to to determine drip
+    - corrosion proof materials to maximise logevity of product 
+    - underwater drip system that mitigates water evaporation before absorption 
+    since it has the high plant absopbtion percentage when done correctedly 70-95%
+
+Concept presentation:
+    - underground irrigation system combined wwith moissture sensor 
+    - pressurised enabling capabilities of drip irrigations
+    - 
+
+
+Theorem of impossibility 
+references:
+    - https://sdgs.un.org/goals/goal6
+    - https://iopscience.iop.org/article/10.1088/1748-9326/ab4bfc
+    - https://passel2.unl.edu/view/lesson/bda727eb8a5a/13
+    - 
+
