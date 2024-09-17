@@ -1,30 +1,21 @@
 problem statement introduction:
 
-the united nations SDG calls for the avaliability and sustainale management of water and sanitation for all, to ensure this
- a reformation in agricultural water usage is necessary in the coming future. Given thet 70 of the fresh water reserve is utlised for irrigation 
- alone, managing the efficent use of water is crucial to sustain  as a reliable resource for all.  
- As of 2019, 52% of all irrigation has been listed as unsustainble due to their continual depletion of basins, aquifiers and lakes. 
- These poor practices are largely contrbuted by that have normalised flood based irrigation methods, causing ongoing 
- issues of water scarcity to a multiude of nations particular affecting, China and India. which will be focused on for this particular prohject 
+The United Nations SDG calls for the availability and sustainable management of water and sanitation for all, to ensure this the reformation of agricultural water usage is necessary in the coming future. Given that 70% of the freshwater reserves are utilised for irrigation 
+alone, managing the efficient use of water is crucial to sustaining water as a reliable resource for all.  As of 2019, 52% of all irrigation has been listed as unsustainable due to the continual depletion of basins, aquifers and lakes. These poor practices are causing ongoing issues of water scarcity in a multitude of regions particularly affecting, Xingjiang China (which will be the primary place of focus for this project).
  
- 
- Particuarly focusing on the Xingjiang region of China, the geography of this province have proven to be a challeneging impedement in terms
- of water management, . Making up around 1/6 of the land mass of China, it however only contains 4% of the nations fresh water reserve. 
+The geography of this province has proven to be a challenging impediment in terms
+of water management. Making up around 1/6 of the land mass of China, it however only contains 4% of the nation's freshwater reserve. This, combined with the fact that wheat and cotton-based agriculture is the most dominant industry of Xinjiang means that 90% of water usage is dedicated towards irrigation. The result of this has caused stress towards the sustainability of local the Tabin and Hay basins. With issue of water scarcity causing many geo-socio-political impacts; affecting many stakeholders, including but not limited to the following:
 
- The ongoing trends of data procliams that in 30 years time 
-geo-socio-polital impacting many stakeholders, indulsing but not limited to the following:
-- The Chinese federal government, specifically their budget reconsiderations in order to execute the South North Water 
-transportation project to combat this
-- Industrial agrioculturalist - will not have enough water to support the wheat and cotton industry 
-- Participants in the global cotton markert: with Xinjiang being one of the largest exports of cotton, industries who are
-invovled with this trade may face supply issues leading to product inflation 
-- The urban residents of Xinjiang will feel economical stagnation if the main industry of the region cannot be support, coupled with 
-humans primal need for water, (projected by scientist) the population of Xingjiangs demands for water will not be met as soon 30 years
-time 
-Thus in order to sustain both industrial agriculturism and the growing demands of urbanisation, the water irrigation model of
-Xinjiang would have to be be imporved to prioritise efficency. 
+- The Chinese federal government: specifically their budget reconsiderations to execute the South-North Water project to create a viable water source for the region 
+- Industrial agriculturalists: will not have enough water to support the growing wheat and cotton industry, potentially facilitating their own collapse 
+- Participants in the global cotton market: With Xinjiang being one of the largest exports of cotton, industries that are involved with this trade may face supply issues leading to product inflation 
+- The urban residents of Xinjiang will feel economic stagnation if the main industry of the region cannot be supported; further coupled with humans' primal need for water, the population of Xingjiang's demands for this resource will not be met as soon as 30 years.
+
+Thus to sustain both industrial agriculturism and the growing demands of urbanisation, the water irrigation model of Xinjiang would have to be improved to prioritise efficiency. 
+
 
 To address these challenges I propose the introduction of a new irrigation method that prioritises the mitigation of water consumption.
 Taking the form of an underground irrigation, the principal behind the innovation is to decrease water expenditure through the prevention of water loss through
 run off and evaporation.
 https://www.unesco.org/reports/wwdr/en/2024/s#:~:text=SDG%206%20indicators-,Water%20demand%20and%20use,freshwater%20withdrawn%20for%20domestic%20purposes.
+
