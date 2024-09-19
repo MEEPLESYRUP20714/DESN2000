@@ -1,0 +1,5 @@
+Kano model:
+horizontal dimension -measures the avaliability of the product functionality
+vertical dimension measures the satifaction with the product 
+
+use qfd to present the data
